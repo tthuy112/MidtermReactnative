@@ -9,7 +9,7 @@ const myProfile = () => {
           <Image
             style={styles.avatar}
             source={{
-              uri: 'https://reactnative.dev/img/tiny_logo.png',
+              uri: 'https://printgo.vn/uploads/media/794801/thiet-ke-vo-hop-thuoc-6_1629089199.jpg',
             }}
           />
           <Text style={styles.username}>Hi, Ben Cline</Text>

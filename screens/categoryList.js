@@ -59,67 +59,67 @@ const categoryList = () => {
           <Image
             style={styles.bannerImage}
             source={{
-              uri: 'https://reactnative.dev/img/tiny_logo.png',
+              uri: 'https://printgo.vn/uploads/media/794801/thiet-ke-vo-hop-thuoc-6_1629089199.jpg',
             }}
           />
         </View>
-        <Text style={styles.text}>React Native</Text>
+        <Text style={styles.text}>Medicine</Text>
         <View style={styles.topProduct}>
           <ScrollView horizontal={true} showsHorizontalScrollIndicator={false}>
             <View style={styles.topProducts}>
               <Image
                 style={styles.topProductImage}
                 source={{
-                  uri: 'https://reactnative.dev/img/tiny_logo.png',
+                  uri: 'https://printgo.vn/uploads/media/794801/thiet-ke-vo-hop-thuoc-6_1629089199.jpg',
                 }}
               />
-              <Text style={styles.text}>Su ca` na</Text>
+              <Text style={styles.text}>Medicine</Text>
             </View>
             <View style={styles.topProducts}>
               <Image
                 style={styles.topProductImage}
                 source={{
-                  uri: 'https://reactnative.dev/img/tiny_logo.png',
+                  uri: 'https://printgo.vn/uploads/media/794801/thiet-ke-vo-hop-thuoc-6_1629089199.jpg',
                 }}
               />
-              <Text style={styles.text}>Su ca` na</Text>
+              <Text style={styles.text}>Medicine</Text>
             </View>
             <View style={styles.topProducts}>
               <Image
                 style={styles.topProductImage}
                 source={{
-                  uri: 'https://reactnative.dev/img/tiny_logo.png',
+                  uri: 'https://printgo.vn/uploads/media/794801/thiet-ke-vo-hop-thuoc-6_1629089199.jpg',
                 }}
               />
-              <Text style={styles.text}>Su ca` na</Text>
+              <Text style={styles.text}>Medicine</Text>
             </View>
             <View style={styles.topProducts}>
               <Image
                 style={styles.topProductImage}
                 source={{
-                  uri: 'https://reactnative.dev/img/tiny_logo.png',
+                  uri: 'https://printgo.vn/uploads/media/794801/thiet-ke-vo-hop-thuoc-6_1629089199.jpg',
                 }}
               />
-              <Text style={styles.text}>Su ca` na</Text>
+              <Text style={styles.text}>Medicine</Text>
             </View>
           </ScrollView>
         </View>
-        <Text style={styles.text}>React Native</Text>
+        <Text style={styles.text}>Medicine</Text>
         <View style={styles.allProduct}>
           <View style={styles.allProducts}>
             <Image
               style={styles.allProductImage}
               source={{
-                uri: 'https://reactnative.dev/img/tiny_logo.png',
+                uri: 'https://printgo.vn/uploads/media/794801/thiet-ke-vo-hop-thuoc-6_1629089199.jpg',
               }}
             />
-            <Text style={styles.text}>Su ca` na</Text>
+            <Text style={styles.text}>Medicine</Text>
           </View>
           <View style={styles.allProducts}>
             <Image
               style={styles.allProductImage}
               source={{
-                uri: 'https://reactnative.dev/img/tiny_logo.png',
+                uri: 'https://printgo.vn/uploads/media/794801/thiet-ke-vo-hop-thuoc-6_1629089199.jpg',
               }}
             />
           </View>
